@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cristrinidad
+- 👋 Hi, I’m Cris
 - 👀 I’m interested in coding, knitting and dancing
 - 🌱 I’m proficient in ASP.NET Core MVC framework and React
 - 💞️ I’m looking to collaborate on ...
